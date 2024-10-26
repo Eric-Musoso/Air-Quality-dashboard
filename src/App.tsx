@@ -290,7 +290,7 @@ function App() {
         style:
           "https://tiles.basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json", // The url to the style i.e basemap that is displayed.
         center: [20.11, 49.35], // The center of the map around Europe.
-        zoom: 10, // The zoom level of the map.
+        zoom: 4, // The zoom level of the map.
       })
         .addControl(
           // To zoom in and out.
